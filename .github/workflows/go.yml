@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 env:
-  HELLO_FROM: RZFeeser
+  HELLO_FROM: RZFeeser's student Shan
 
 jobs:
 
